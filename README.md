@@ -1,6 +1,8 @@
-# Travel Site
+# Travelku Site
 
 this project was built with Next JS and tailwind CSS.
+
+![122896887_3307705366018505_3782713888205111045_n](https://user-images.githubusercontent.com/38848573/97678855-0e8f0480-1ac7-11eb-8e56-5b30ffd07114.jpg)
 
 ## Getting Started
 
